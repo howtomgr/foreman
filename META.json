@@ -1,0 +1,60 @@
+{
+  "category": "infrastructure-management",
+  "created_date": "2025-09-15T22:48:57.588078",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "foreman is a free and open-source lifecycle management. Foreman provides complete lifecycle management for servers",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/infrastructure-management/foreman",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/infrastructure-management/foreman",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.588098",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "foreman",
+  "repository_url": "https://github.com/howtomgr/foreman",
+  "spec_version": "2.0",
+  "subcategory": "infrastructure-management",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "infrastructure-management",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "foreman Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/infrastructure-management/foreman"
+}
